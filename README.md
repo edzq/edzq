@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edzq)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edzq)](https://github.com/edzq)
 
 <!--
 **edzq/edzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
