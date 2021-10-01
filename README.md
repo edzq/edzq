@@ -5,7 +5,8 @@
 
 ## Hey 👋, I'm ZQ!
 
-I'm an first year Phd Student, who is interested in Natural Language Processing, Data Mining, Information Retrieval, Human in the loop machine learning.
-<!-- - 🔭 I’m currently working on  -->
-<!-- - 🖥 Algorithm engineer -->
-<!-- - 📫 How to reach me **ethanyt at qq.com** -->
+I'm a first year Phd Student, study on **Computer Science** 🔭. 
+
+* My research focus on Natural Language Processing, Data Mining, Information Retrieval, Human in the loop machine learning.
+* I'm good at **Python, C++** 👯
+* My website here [ZQ's Blog](https://edzq.github.io) 📫
