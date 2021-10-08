@@ -7,7 +7,7 @@
 
 I'm a first year Phd Student, study on **Computer Science** 🔭. 
 
-* My research focus on Natural Language Processing, Data Mining, Information Retrieval, Human in the loop machine learning.
+* Now I am a start-up learner in the fields of Natural Language Processing and Data Mining. Specificly, I am doing research about how to extract the Datasets used in an publication.
+* In my time during Undergraduate, I did some research in the fields of signal processing (use EEG signal to classify the sleep stages), image processing (single iamge Super-Resolution)
 * I'm good at **Python, C++** 👯
 * My website here [ZQ's website](https://edzq.github.io) 📫
-* My lover is 💗Yan Ge💗
