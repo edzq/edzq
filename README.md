@@ -7,7 +7,7 @@
 
 I'm a first year Phd Student, study on **Computer Science** 🔭. 
 
-* Now I am a start-up learner in the fields of Natural Language Processing and Data Mining. Specificly, I am doing research about how to extract the Datasets used in an publication.
+* Now I am a start-up learner in the fields of Natural Language Processing and Data Mining. Specificly, I am doing research about how to extract the Entities in an publication.
 * In my time during Undergraduate, I did some research in the fields of signal processing (use EEG signal to classify the sleep stages), image processing (single iamge Super-Resolution)
 * I'm good at **Python, C++** 👯
 * My website here [ZQ's website](https://edzq.github.io) 📫
