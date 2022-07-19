@@ -5,9 +5,24 @@
 
 ## Hey 👋, I'm ZQ!
 
-I'm a first year Phd Student, study on **Computer Science** 🔭. 
+I'm a second year Phd Student, study on **Computer Science** 🔭. 
 
-* Now I am a start-up learner in the fields of Natural Language Processing and Data Mining. Specificly, I am doing research about how to extract the Entities in an publication.
+* Now I am a start-up learner in the fields of Natural Language Processing and Data Mining. Specificly, I am doing research about how to extract the Entities from scientific text.
 * In my time during Undergraduate, I did some research in the fields of signal processing (use EEG signal to classify the sleep stages), image processing (single iamge Super-Resolution)
-* I'm good at **Python, C++** 👯
+
+## 🛠 Stack
+
+🐍 Python
+- Natural Language Processing: NLTK, SpaCy, HuggingFace
+- Machine Learning: Scikit-learn, PyTorch
+- Demoe: Bokeh, Seaborn, Matplotlib
+- Misc tools: WanDB, TensorBoard
+
+👨‍💻 Development
+- Flask, Vue.js (Element UI), AWS, Docker
+
+## 🔗 Let's Connect!
+<a href="https://twitter.com/Qi1998Temple" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/qi-zhang-58162b216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 * My website here [ZQ's website](https://edzq.github.io) 📫
