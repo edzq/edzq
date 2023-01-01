@@ -10,13 +10,13 @@ I'm a second year Phd Student, study on **Computer Science** 🔭.
 * Now I am a start-up learner in the fields of Natural Language Processing and Data Mining. Specificly, I am doing research about how to extract the Entities from scientific text.
 * In my time during Undergraduate, I did some research in the fields of signal processing (use EEG signal to classify the sleep stages), image processing (single iamge Super-Resolution)
 
-## 🛠 Stack
+## 🛠 Skill Stack (Keeping Growing👨‍💻)
 
 🐍 Python
-- Natural Language Processing: NLTK, SpaCy, HuggingFace
+- Natural Language Processing: ~~NLTK~~ (SpaCy is a better tool can replace NLTK.), SpaCy, HuggingFace
 - Machine Learning: Scikit-learn, PyTorch
 - Demoe: Bokeh, Seaborn, Matplotlib
-- Misc tools: WanDB, TensorBoard
+- Misc tools: WanDB
 
 👨‍💻 Development
 - Flask, Vue.js (Element UI), AWS, Docker
