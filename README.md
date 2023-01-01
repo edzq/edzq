@@ -13,8 +13,8 @@ I'm a second year Phd Student, study on **Computer Science** 🔭.
 ## 🛠 Skill Stack (Keeping Growing👨‍💻)
 
 🐍 Python
-- Natural Language Processing: ~~NLTK~~ (SpaCy is a better tool can replace NLTK.), SpaCy, HuggingFace
-- Machine Learning: Scikit-learn, PyTorch
+- Natural Language Processing: ~~NLTK~~ (SpaCy is a better tool can replace NLTK.), (SpaCy)[https://spacy.io/], (HuggingFace)[https://huggingface.co/]
+- Machine Learning: Scikit-learn, (PyTorch)[https://pytorch.org/]
 - Demoe: Bokeh, Seaborn, Matplotlib
 - Misc tools: WanDB
 
