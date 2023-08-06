@@ -18,9 +18,3 @@
 
 👨‍💻 Development
 - Flask, Vue.js (Element UI), AWS, Docker
-
-## 🔗 Let's Connect!
-<a href="https://twitter.com/Qi1998Temple" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/qi-zhang-58162b216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-* My website here [ZQ's website](https://edzq.github.io) 📫
