@@ -2,8 +2,7 @@
 
 ## Hey 👋, my name is Max!
 
-* I am a PhD student in the fields of Natural Language Processing and Data Mining. Specificly, I am doing research about how to extract the Entities from scientific text.
-* In my time during Undergraduate, I did some research in the fields of signal processing (use EEG signal to classify the sleep stages), image processing (single iamge Super-Resolution)
+I am a PhD student in the fields of Natural Language Processing and Data Mining. Specificly, I am working on information extraction, information retrieval and in-context learning.
 
 ## 🛠 Skill Stack (Keep Studying👨‍💻)
 
