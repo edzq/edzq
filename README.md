@@ -8,7 +8,7 @@ I am a PhD student in the fields of Natural Language Processing and Data Mining.
 
 🐍 Python
 - Natural Language Processing: ~~NLTK~~ (SpaCy is a better tool can replace NLTK.), [SpaCy](https://spacy.io/), [HuggingFace](https://huggingface.co/)
-- Machine Learning: Scikit-learn, [PyTorch](https://pytorch.org/)
+- Machine Learning: [PyTorch](https://pytorch.org/), Scikit-learn
 - Demoe: Bokeh, Seaborn, Matplotlib
 - Misc tools: WanDB
 
