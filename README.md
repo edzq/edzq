@@ -21,5 +21,5 @@ My research focuses on **Natural Language Processing (NLP)**, **Large Language M
 
 ## 🔎 More About Me
 
-- Homepage: [qi-zhang.github.io](https://qi-zhang.github.io/)
+- Homepage: [edzq.github.io](https://edzq.github.io/)
 - Google Scholar: [Qi Zhang's Publications](https://scholar.google.com/citations?hl=en&user=PDQYP3EAAAAJ&view_op=list_works&sortby=pubdate)
