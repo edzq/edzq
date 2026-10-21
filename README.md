@@ -1,8 +1,8 @@
 ## Hey 👋, I'm Qi Zhang
 
-I am an **Applied Scientist at AWS Security Analytics and AI Research (SAAR)** and a **Ph.D. Candidate** in the Department of Computer & Information Sciences at **Temple University**.
+I am an **Applied Scientist II at AWS Security Analytics and AI Research (SAAR)**.
 
-I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm). I also closely collaborate with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
+I am fortunate to be advised by [Dr. Eduard Dragut](https://cis.temple.edu/~edragut/index.htm) during my PhD. I also closely collaborate with [Dr. Cornelia Caragea](https://www.cs.uic.edu/~cornelia/) and [Dr. Longin Jan Latecki](https://cis.temple.edu/~latecki/index.php).
 
 My research focuses on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Applied Machine Learning**, with a particular interest in:
 
